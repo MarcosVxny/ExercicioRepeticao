@@ -9,7 +9,7 @@ public class Exercicio2 {
 		 
 		
 		String continua = "s";
-			int idade = 1, totalP;
+			int idade = 1;
 			
 			Scanner leia = new Scanner(System.in);
 			
